@@ -1,0 +1,10 @@
+WBA/
+├── backend/
+├── frontend/
+├── database/
+├── infrastructure/
+├── docs/
+├── scripts/
+├── wordpress-plugin/
+└── .github/
+    └── workflows/
