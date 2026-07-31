@@ -59,6 +59,3 @@ jobs:
 
       - name: Check Node Version
         run: node --version
-git add .
-git commit -m "Add initial GitHub Actions workflow"
-git push origin main
